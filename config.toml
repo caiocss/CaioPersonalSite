@@ -1,6 +1,6 @@
 baseURL = "https://caiocss.com/"
 languageCode = "en-us"
-title = "Caio Santos - Blog"
+title = "Caio Santos - Desenvolvedor de Software"
 theme = "hello-friend-ng"
 DefaultContentLanguage = "en"
 
@@ -31,8 +31,8 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Caio Santos"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  description = "Site pessoal de divugação do meu perfil profissional, e blog sobre desenvolvimento de software e programação no geral onde compartilho escrevendo sobre os assuntos e tecnologias que venho estudando e trabalhando como C#, ASP.NET, Python, Java, JavaScript, Git, GO Language, Linux, Windows entre outros.  "
+  keywords = "homepage, blog, informatics, development, programming, caio, resume, portfolio, trabalho, tecnologia, backend, frontend, software, .NET, C#, python, linux, windows, web, desenvolvedor"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
