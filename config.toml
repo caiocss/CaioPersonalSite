@@ -1,0 +1,135 @@
+baseURL = "https://caiocss.com/"
+languageCode = "en-us"
+title = "Caio Santos - Blog"
+theme = "hello-friend-ng"
+DefaultContentLanguage = "en"
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog by Caio Santos"
+  keywords = "homepage, blog, science, informatics, development, programming"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "content/posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "light"
+  homeSubtitle = "Software Developer"
+
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = ["/css/styles.css"]
+
+
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Caio Santos"
+
+
+[languages]
+  [languages.en]
+    title = "Caio Santos"
+    subtitle = "Software Developer"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+
+
+    [languages.en.params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+  [languages.pt]
+    title = "Caio Santos"
+    subtitle = "Desenvolvedor de Software"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.pt.params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+	# You can create a language based menu
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/posts"
+
+    [languages.pt.menu]
+      [[languages.pt.menu.main]]
+        identifier = "sobre"
+        name = "Sobre"
+        url = "/about"
+      [[languages.pt.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/posts"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+[[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/caio687"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:caio.css@outlook.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/caiocss"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/caio-css"
+
