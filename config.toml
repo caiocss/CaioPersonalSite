@@ -44,6 +44,7 @@ disableHugoGeneratorInject = false
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   customCSS = ["/css/styles.css"]
 
+googleAnalytics = "UA-135610386-1"
 
 
 [permalinks]
@@ -64,7 +65,7 @@ disableHugoGeneratorInject = false
 
 
     [languages.en.params.logo]
-      logoText = "$ cd /home/"
+      logoText = "$ cd/home/"
       logoHomeLink = "/"
     # or
     #
@@ -78,7 +79,7 @@ disableHugoGeneratorInject = false
     readOtherPosts = "Read other posts"
 
     [languages.pt.params.logo]
-      logoText = "$ cd /home/"
+      logoText = "$ cd/home/"
       logoHomeLink = "/"
     # or
     #
