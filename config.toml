@@ -65,7 +65,7 @@ googleAnalytics = "UA-135610386-1"
 
 
     [languages.en.params.logo]
-      logoText = "$ cd/home/"
+      logoText = " $ cd/home/"
       logoHomeLink = "/"
     # or
     #
@@ -79,7 +79,7 @@ googleAnalytics = "UA-135610386-1"
     readOtherPosts = "Read other posts"
 
     [languages.pt.params.logo]
-      logoText = "$ cd/home/"
+      logoText = " $ cd/home/"
       logoHomeLink = "/"
     # or
     #

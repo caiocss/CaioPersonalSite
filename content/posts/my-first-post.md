@@ -14,6 +14,6 @@ draft: false
 
 Aqui se inicia meu blog, onde pretendo em breve compartilhar o meu dia-a-dia, estudos e projetos na área da programação..
 
-_Até Breve!_
+_See ya!_
 
-[Caio Santos - Blog](https://caiocss.com)
+[Caio Santos - Blog](https://caiosantos.dev)
