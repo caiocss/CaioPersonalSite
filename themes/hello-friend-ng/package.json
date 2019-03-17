@@ -2,7 +2,7 @@
   "name": "hello-friend-ng",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Caio Santos <caio.css@outlook.com>",
+  "author": "Caio Santos <contato@caiosantos.dev>",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -34,7 +34,7 @@ Além disso, quero começar a contribuir mais com a comunidade de desenvolviment
 
 Se interessou? Entre em contato comigo por um dos canais abaixo:
 
-+ E-mail: [caio.css@outlook.com](mailto:caio.css@outlook.com)
++ E-mail: [caio.css@outlook.com](mailto:contato@caiosantos.dev)
 + Linkedin: [link](https://www.linkedin.com/in/caio-css/)
 + Twitter: [link](https://twitter.com/caio687)
 

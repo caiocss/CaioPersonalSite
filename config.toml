@@ -1,4 +1,4 @@
-baseURL = "https://caiocss.com/"
+baseURL = "https://caiosantos.dev/"
 languageCode = "en-us"
 title = "Caio Santos - Desenvolvedor de Software"
 theme = "hello-friend-ng"
@@ -31,7 +31,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Site pessoal de divugação do meu perfil profissional, e blog sobre desenvolvimento de software e programação no geral onde compartilho escrevendo sobre os assuntos e tecnologias que venho estudando e trabalhando como C#, ASP.NET, Python, Java, JavaScript, Git, GO Language, Linux, Windows entre outros.  "
+  description = "Site pessoal de divugação do meu perfil profissional, e blog sobre desenvolvimento de software e programação em geral, onde compartilho escrevendo sobre os assuntos e tecnologias que venho estudando e trabalhando como C#, ASP.NET, Python, Java, JavaScript, Git, GO Language, Linux, Windows entre outros.  "
   keywords = "homepage, blog, informatics, development, programming, caio, resume, portfolio, trabalho, tecnologia, backend, frontend, software, .NET, C#, python, linux, windows, web, desenvolvedor"
   images = [""]
 
@@ -124,7 +124,7 @@ googleAnalytics = "UA-135610386-1"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:caio.css@outlook.com"
+    url  = "mailto:contato@caiosantos.dev"
 
   [[params.social]]
     name = "github"
