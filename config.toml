@@ -1,8 +1,8 @@
 baseURL = "https://caiosantos.dev/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Caio Santos - Desenvolvedor de Software"
 theme = "hello-friend-ng"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "pt"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -31,14 +31,14 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Site pessoal de divugação do meu perfil profissional, e blog sobre desenvolvimento de software e programação em geral, onde compartilho escrevendo sobre os assuntos e tecnologias que venho estudando e trabalhando como C#, ASP.NET, Python, Java, JavaScript, Git, GO Language, Linux, Windows entre outros.  "
-  keywords = "homepage, blog, informatics, development, programming, caio, resume, portfolio, trabalho, tecnologia, backend, frontend, software, .NET, C#, python, linux, windows, web, desenvolvedor"
+  description = "Site pessoal de divugação do meu perfil profissional e pessoal, e blog sobre desenvolvimento de software e programação em geral, onde compartilho escrevendo sobre os assuntos e tecnologias que venho estudando e trabalhando como C#, ASP.NET, Python, Java, JavaScript, Git, GO / Golang, Linux, Windows entre outros.  "
+  keywords = "homepage, blog, informatics, development, programming, caio, resume, portfolio, trabalho, tecnologia, backend, frontend, software, .NET, C#, python, linux, windows, web, golang, java, personal, site pessoal, desenvolvedor"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "content/posts"
   # Default theme "light" or "dark"
-  defaultTheme = "light"
+  defaultTheme = "dark"
   homeSubtitle = "Software Developer"
 
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -76,7 +76,7 @@ googleAnalytics = "UA-135610386-1"
     subtitle = "Desenvolvedor de Software"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
+    readOtherPosts = "Leia outras postagens"
 
     [languages.pt.params.logo]
       logoText = " $ cd/home/"

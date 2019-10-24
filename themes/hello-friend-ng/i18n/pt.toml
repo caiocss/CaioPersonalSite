@@ -1,0 +1,36 @@
+# Translations for Brazil Portuguese
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Tradução"
+
+[postAvailable]
+other = "Também disponível em"
+
+
+# 404.html
+#
+[archives]
+other = "Arquivos"
+
+[home]
+other = "Home"
+
+[notFound]
+other = "Oops, página não encontrada…"
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "Um minuto"
+other = "{{ .Count }} minutos"
+
+[tableOfContents]
+other = "Índice"
+
+[wordCount]
+one   = "Uma palavra"
+other = "{{ .Count }} Palavras"

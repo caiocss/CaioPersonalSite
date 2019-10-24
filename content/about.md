@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2019-03-04"
-aliases = ["about-us","about-caio","contact", "sobre mim",]
+aliases = ["about-us","about-caio","contact", "sobre-mim", "sobre"]
 [ author ]
   name = "Caio Santos"
 +++
