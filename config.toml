@@ -31,7 +31,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Site pessoal de divugação do meu perfil profissional e pessoal, e blog sobre desenvolvimento de software e programação em geral, onde compartilho escrevendo sobre os assuntos e tecnologias que venho estudando e trabalhando como C#, ASP.NET, Python, Java, JavaScript, Git, GO / Golang, Linux, Windows entre outros.  "
+  description = "Site pessoal de divugação do meu perfil profissional e pessoal, e blog sobre desenvolvimento de software e programação em geral, onde compartilho o que venho estudando e trabalhando como C#, ASP.NET, Python, Java, JavaScript, Git, GO / Golang, Linux, Windows entre outros."
   keywords = "homepage, blog, informatics, development, programming, caio, resume, portfolio, trabalho, tecnologia, backend, frontend, software, .NET, C#, python, linux, windows, web, golang, java, personal, site pessoal, desenvolvedor"
   images = [""]
 
@@ -65,7 +65,7 @@ googleAnalytics = "UA-135610386-1"
 
 
     [languages.en.params.logo]
-      logoText = " $ cd/home/"
+      logoText = " //caiosantos.dev"
       logoHomeLink = "/"
     # or
     #
@@ -79,7 +79,7 @@ googleAnalytics = "UA-135610386-1"
     readOtherPosts = "Leia outras postagens"
 
     [languages.pt.params.logo]
-      logoText = " $ cd/home/"
+      logoText = " //caiosantos.dev"
       logoHomeLink = "/"
     # or
     #
